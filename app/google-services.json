@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213320097321",
+    "project_id": "real-81179",
+    "storage_bucket": "real-81179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213320097321:android:57d83208b23a87b7c00638",
+        "android_client_info": {
+          "package_name": "com.example.realtimefb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213320097321-dhca99rec5vtqdbms0rjadmer6mc9b0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbbCxdeQlMB9xDu_72br7A75coGjY6Iv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213320097321-dhca99rec5vtqdbms0rjadmer6mc9b0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
